@@ -126,7 +126,7 @@ main {
   right: 20px;
 }
 
-.botao-flutuante{
+.botao-flutuante button {
   color: #fff;
   border: none;
   border-radius: 50%;

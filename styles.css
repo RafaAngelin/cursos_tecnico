@@ -136,7 +136,9 @@ main {
   cursor: pointer;
 }
 
-
+.botao-flutuante button:hover {
+  border: 5px solid #9431c8;
+}
 
 img {
   position: fixed;

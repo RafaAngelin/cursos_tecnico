@@ -124,6 +124,11 @@ main {
   position: fixed;
   bottom: 20px;
   right: 20px;
+  transition: border 0.3s ease;
+}
+
+.botao-flutuante {
+  border: 5px solid #9431c8;
 }
 
 .botao-flutuante button {
@@ -134,7 +139,6 @@ main {
   height: 80px;
   font-size: 24px;
   cursor: pointer;
-  transition: border 0.3s ease;
 }
 
 img {

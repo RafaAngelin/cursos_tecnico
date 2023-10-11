@@ -1,0 +1,11 @@
+@import url("default.css");
+body {
+  background-color: #69bc4c;
+  /* background-image: url(bg_tma_big.webp); */
+}
+
+@media (max-width: 768px) {
+  body {
+    /* background-image: url(bg_tma_small.png); */
+  }
+}

@@ -1,0 +1,11 @@
+@import url("default.css");
+body {
+  background-color: #163551;
+  background-image: url(bg_te_big);
+}
+
+@media (max-width: 768px) {
+  body {
+    background-image: url(bg_te_small);
+  }
+}

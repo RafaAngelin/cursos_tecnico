@@ -124,14 +124,9 @@ main {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  transition: border 0.3s ease;
 }
 
-.botao-flutuante {
-  background-color: gray;
-}
-
-.botao-flutuante button {
+.botao-flutuante{
   color: #fff;
   border: none;
   border-radius: 50%;
